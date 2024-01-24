@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9c8c49e-cbad-4a5e-9d8b-26a076fbdfc6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Enum/Ex12_0.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Enum/Ex12_1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Lamda/Ex14_0.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Lamda/Ex14_1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Lamda/Ex14_2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Lamda/Ex14_3.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Lamda/Ex14_3_main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Lamda/Ex14_4.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Lamda/Ex14_5.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Practive.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Steam/Ex14_6_ArrayStreamMaking.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Steam/Ex14_6_DefaultStreamMaking.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Steam/Ex14_6_FileEmptyStreamMaking.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Steam/Ex14_6_LambdaStreamMaking.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Steam/Ex14_6_RandomStreamMaking.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Steam/Ex14_7_intermediateOperations.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Steam/Ex14_8_intermediateOperations2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Steam/Ex_14_9_terminalOperations.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Thread/Ex13_1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Thread/Ex13_2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Thread/Ex13_4.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Thread/Ex13_5.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Thread/Ex13_6.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Thread/Ex13_6_1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Thread/Ex13_7.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/iterator/Ex11_0.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/iterator/Ex11_1.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1zIlt4SgPgXZCQhUYhMgsq5s7hK" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ljw6398/Desktop/개인공부/src/EffectiveJava/Item_one/Advantage&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="EffectiveJava.Item_one.Advantage.Three" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ljw6398\Desktop\개인공부\src\EffectiveJava\Item_one\Advantage" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Lamda" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="EffectiveJava.Item_one.Advantage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Adavantage2">
+    <configuration name="Adavantage2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EffectiveJava.Item_one.Advantage.Ex2.Adavantage2" />
+      <module name="Java_LeeJaeWan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EffectiveJava.Item_one.Advantage.Ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex12_0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enum.Ex12_0" />
+      <module name="Java_LeeJaeWan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex12_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enum.Ex12_1" />
+      <module name="Java_LeeJaeWan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaStudy" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Thread.Ex13_1" />
+      <module name="Java_LeeJaeWan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testetst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enum.testetst" />
+      <module name="Java_LeeJaeWan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enum.testtest" />
+      <module name="Java_LeeJaeWan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaStudy" />
+      <item itemvalue="Application.Adavantage2" />
+      <item itemvalue="Application.testtest" />
+      <item itemvalue="Application.Ex12_0" />
+      <item itemvalue="Application.Ex12_1" />
+      <item itemvalue="Application.testetst" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Adavantage2" />
+        <item itemvalue="Application.testtest" />
+        <item itemvalue="Application.testetst" />
+        <item itemvalue="Application.Ex12_1" />
+        <item itemvalue="Application.Ex12_0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c8c49e-cbad-4a5e-9d8b-26a076fbdfc6" name="Changes" comment="" />
+      <created>1633843695439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633843695439</updated>
+      <workItem from="1633843696626" duration="13551000" />
+      <workItem from="1633999994643" duration="15000" />
+      <workItem from="1634791613635" duration="1751000" />
+      <workItem from="1634799972183" duration="3000" />
+      <workItem from="1635048076019" duration="8058000" />
+      <workItem from="1635124194314" duration="11000" />
+      <workItem from="1638509674251" duration="1672000" />
+      <workItem from="1638515043670" duration="308000" />
+      <workItem from="1638755339312" duration="15394000" />
+      <workItem from="1638839152527" duration="18648000" />
+      <workItem from="1638925369600" duration="21004000" />
+      <workItem from="1639011696511" duration="11054000" />
+      <workItem from="1639098615163" duration="163000" />
+      <workItem from="1639536015935" duration="1210000" />
+      <workItem from="1639718140589" duration="33000" />
+      <workItem from="1640148130404" duration="9000" />
+      <workItem from="1640157222258" duration="1302000" />
+      <workItem from="1640221744311" duration="2008000" />
+      <workItem from="1640327428348" duration="3215000" />
+      <workItem from="1640567493064" duration="55000" />
+      <workItem from="1640657449413" duration="13152000" />
+      <workItem from="1640753044419" duration="3116000" />
+      <workItem from="1641183208113" duration="4455000" />
+      <workItem from="1641522629447" duration="3508000" />
+      <workItem from="1641862403574" duration="70000" />
+      <workItem from="1641964108031" duration="3220000" />
+      <workItem from="1642035528766" duration="2650000" />
+      <workItem from="1643188691901" duration="674000" />
+      <workItem from="1643206141411" duration="38000" />
+      <workItem from="1645592375032" duration="1811000" />
+      <workItem from="1646359366020" duration="4247000" />
+      <workItem from="1647788086012" duration="2257000" />
+      <workItem from="1649299209463" duration="1221000" />
+      <workItem from="1649986060123" duration="627000" />
+      <workItem from="1650258228735" duration="740000" />
+      <workItem from="1651017223760" duration="6000" />
+      <workItem from="1651017243542" duration="39000" />
+      <workItem from="1651395029167" duration="251000" />
+      <workItem from="1651622493771" duration="795000" />
+      <workItem from="1653394036351" duration="1015000" />
+      <workItem from="1653441076961" duration="9000" />
+      <workItem from="1654849917601" duration="1520000" />
+      <workItem from="1655683991643" duration="1797000" />
+      <workItem from="1656032068359" duration="597000" />
+      <workItem from="1656552007462" duration="4184000" />
+      <workItem from="1656576315016" duration="6000" />
+      <workItem from="1657068958766" duration="601000" />
+      <workItem from="1657255050471" duration="2141000" />
+      <workItem from="1658194500332" duration="391000" />
+      <workItem from="1658280538108" duration="314000" />
+      <workItem from="1660977424090" duration="5764000" />
+      <workItem from="1662438972159" duration="1272000" />
+      <workItem from="1674879000692" duration="616000" />
+      <workItem from="1674984919024" duration="135000" />
+      <workItem from="1674985320944" duration="142000" />
+      <workItem from="1674985660937" duration="51000" />
+      <workItem from="1679969456067" duration="1205000" />
+      <workItem from="1679974143461" duration="360000" />
+      <workItem from="1679995504493" duration="596000" />
+      <workItem from="1680772277180" duration="4311000" />
+      <workItem from="1680831540344" duration="2507000" />
+      <workItem from="1683020097643" duration="620000" />
+      <workItem from="1683592166683" duration="6660000" />
+      <workItem from="1683698718791" duration="2583000" />
+      <workItem from="1683782635552" duration="1077000" />
+      <workItem from="1683784305048" duration="7000" />
+      <workItem from="1685948487864" duration="421000" />
+      <workItem from="1686114321419" duration="1197000" />
+      <workItem from="1686640390893" duration="1201000" />
+      <workItem from="1686787909648" duration="596000" />
+      <workItem from="1686876882884" duration="1196000" />
+      <workItem from="1687929416322" duration="701000" />
+      <workItem from="1690424108109" duration="875000" />
+      <workItem from="1690521476649" duration="1256000" />
+      <workItem from="1691479678823" duration="404000" />
+      <workItem from="1701071421593" duration="831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Thread/Ex13_1.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Comparator/Ex11_0.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Steam/Ex_14_9_terminalOperations.java</url>
+          <line>94</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Steam/Ex14_6_DefaultStreamMaking.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Enum/Ex12_1.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Enum/testetst.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Comparator/Ex11_0.java</url>
+          <line>70</line>
+          <properties class="Comparator.Descending" method="compare">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
